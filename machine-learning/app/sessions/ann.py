@@ -26,6 +26,7 @@ class AnnSession:
         self.model = self.ann.load(
             model_path.as_posix(),
             cached_network_path=model_path.with_suffix(".anncache").as_posix(),
+            fp16=settings.ann_fp16_turbo,
         )
         log.info("Loaded ANN model with ID %d", self.model)
 
