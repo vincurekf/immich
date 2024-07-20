@@ -3,8 +3,8 @@
   "account": "حساب کاربری",
   "account_settings": "تنظیمات حساب کاربری",
   "acknowledge": "متوجه شدم",
-  "action": "",
-  "actions": "",
+  "action": "عملکرد",
+  "actions": "عملکرد",
   "active": "فعال",
   "activity": "فعالیت",
   "add": "افزودن",
@@ -95,7 +95,7 @@
     "machine_learning_clip_model_description": "نام یک مدل CLIP که در <link>اینجا</link> فهرست شده است. توجه داشته باشید که پس از تغییر مدل، باید کار 'جستجوی هوشمند' را برای همه تصاویر دوباره اجرا کنید.",
     "machine_learning_duplicate_detection": "تشخیص تکراری ها",
     "machine_learning_duplicate_detection_enabled": "فعال سازی تشخیص تکراری ها",
-    "machine_learning_duplicate_detection_enabled_description": "",
+    "machine_learning_duplicate_detection_enabled_description": "اگر غیرفعال باشد، تصاویر یا دارایی‌های دقیقاً یکسان همچنان حذف می‌شوند.",
     "machine_learning_duplicate_detection_setting_description": "از تعبیه‌های CLIP برای یافتن تکراری‌های احتمالی استفاده کنید",
     "machine_learning_enabled": "فعال سازی یادگیری ماشین",
     "machine_learning_enabled_description": "اگر غیرفعال شود، تمامی ویژگی‌های یادگیری ماشین بدون توجه به تنظیمات زیر غیرفعال خواهند شد.",
@@ -124,6 +124,8 @@
     "manage_log_settings": "مدیریت تنظیمات گزارش",
     "map_dark_style": "حالت تیره",
     "map_enable_description": "فعال سازی ویژگی های نقشه",
+    "map_gps_settings": "تنظیمات نقشه و جی پی اس",
+    "map_gps_settings_description": "تنظیمات نقشه و جی‌پی‌اس (ژئوکدینگ معکوس) را مدیریت کنید",
     "map_light_style": "حالت روشن",
     "map_manage_reverse_geocoding_settings": "مدیریت تنظیمات <link>کدگذاری مکانی معکوس </link>",
     "map_reverse_geocoding": "ژئوکدینگ معکوس",
@@ -944,5 +946,5 @@
   "year": "",
   "yes": "",
   "you_dont_have_any_shared_links": "",
-  "zoom_image": ""
+  "zoom_image": "بزرگنمایی تصویر"
 }
